@@ -1,0 +1,137 @@
+
+.ustmenubutton1 {
+    background-image: url('Scripts/resim/menuicon/buttonekle.png');
+    background-repeat: no-repeat;
+    color: white;
+    float: right;
+    margin-left: 0px;
+    border: 0px solid black;
+    width: 72px;
+    height: 30px;
+    text-align: right;
+    font-size: 18px;
+    background-color:#28235d;
+}
+.ustmenubutton2 {
+    background-repeat: no-repeat;
+   
+    background-image: url('Scripts/resim/menuicon/buttonsil.png');
+    color: white;
+    float: right;
+    margin-left: 0px;
+    border: 0px solid black;
+    width: 58px;
+    height: 30px;
+    text-align: right;
+    font-size: 18px;
+    background-color:#28235d;
+}
+.ustmenubutton3 {
+   
+    background-image: url('Scripts/resim/menuicon/buttonduzelt.png');
+    background-repeat: no-repeat;
+    color: white;
+    float: right;
+    margin-left: 0px;
+    border: 0px solid black;
+    width: 88px;
+    height: 30px;
+    text-align: right;
+    font-size: 18px;
+   background-color:#28235d;
+}
+.ustmenubutton4 {
+
+    background-image: url('Scripts/resim/menuicon/buttonlogdevir.png');
+    background-repeat: no-repeat;
+    color: white;
+    float: right;
+    margin-left: 0px;
+    border: 0px solid black;
+    width: 120px;
+    height: 30px;
+    text-align: right;
+    font-size: 18px;
+    background-color:#28235d;
+}
+.ustmenubutton5 {
+
+    background-image: url('Scripts/resim/menuicon/buttonperdevir.png');
+    background-repeat: no-repeat;
+    color: white;
+    float: right;
+    margin-left: 0px;
+    border: 0px solid black;
+    width: 120px;
+    height: 30px;
+    text-align: right;
+    font-size: 18px;
+    background-color:#28235d;
+}
+.ustmenubutton6 {
+ 
+    background-image: url('Scripts/resim/menuicon/buttonduzelt.png');
+    background-repeat: no-repeat;
+    color: white;
+    float: right;
+    margin-left: 0px;
+    border: 0px solid black;
+    width: 88px;
+    height: 30px;
+    text-align: right;
+    font-size: 18px;
+    background-color:#28235d;
+}
+.ustmenubutton7 {
+
+    background-repeat: no-repeat;
+    background-image: url('Scripts/resim/menuicon/buttonduzelt.png');
+    color: white;
+    float: right;
+    margin-left: 0px;
+    border: 0px solid black;
+    width: 88px;
+    height: 30px;
+    text-align: right;
+    font-size: 18px;
+   background-color:#28235d;
+}
+.ustmenubutton8 {
+   
+    background-image: url('Scripts/resim/menuicon/buttonduzelt.png');
+    background-repeat: no-repeat;
+    color: white;
+    float: right;
+    margin-left: 0px;
+    border: 0px solid black;
+    width: 88px;
+    height: 30px;
+    text-align: right;
+    font-size: 18px;
+    background-color:#28235d;
+}
+.table1{
+text-align:center;
+border:1px solid white;
+width:200px;
+height:40px;
+float:left;
+margin:0px 15px 0px 0px;
+color: white;
+}
+.table2{
+text-align:center;
+border:1px solid white;
+height:40px;
+float:left;
+margin:0px 15px 0px 0px;
+color: white;
+}
+.table3{
+text-align:center;
+border:1px solid white;
+height:40px;
+float:left;
+color: white;
+}
+

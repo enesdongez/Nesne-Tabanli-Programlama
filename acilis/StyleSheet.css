@@ -1,0 +1,67 @@
+﻿body
+{
+    padding-top:100px;
+    background-color:#5D7B9D;
+}
+.ana
+{
+    width:980px;
+    margin:auto;
+    height:280px;
+
+}
+.yan1
+{
+    background-color:#5D7B9D;
+    width:20%;
+   height:280px;
+    float:left;
+}
+.yan2
+{
+    background-color:#5D7B9D;
+    width:20%;
+    height:280px;
+    float:left;
+
+}
+.orta
+{
+    float:left;
+    width:59%;
+    height:280px;
+    background-color:white;
+    float:left;
+}
+.baslik
+        {
+            background-color: #627A96; 
+            color: #FFFFFF;
+            width:100%;
+            padding:5px 0px 0px 8px;
+            text-align:center;
+            height:25px;
+
+        }
+.buttonkayit
+        {
+            width:82px;
+            height:30px;
+            background-color:white;
+            background-image:url('demirbaskayıtbuttonn.png');
+            background-repeat:no-repeat;
+            background-position:left;
+            text-align:right;
+            margin:0px 0px 0px 0px;
+        }
+.butongec
+{
+    padding:5px 10px 5px 10px;
+    background-color:#5D7B9D;
+    color:white;
+    text-decoration:none;
+    font-family:Calibri;
+    font-size:15px;
+    float:right;
+    margin-right:5px;
+}
