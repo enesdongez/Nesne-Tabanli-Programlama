@@ -1,0 +1,2 @@
+Asp.net tabanlı kullanıcı girişi yaparken sql veritabanından bağlantı sağlayıp kullanıcı adı, soyadı ve şifresine bağlı bir giriş sistemidir.
+Ado.net teknolojisi kullanarak sistemin kodlaması yapılmıştır. Sql kodlarını sisteminize ekleyip çalıştırabilirsiniz.
