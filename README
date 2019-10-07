@@ -1,0 +1,14 @@
+#ATM Otomasyonu
+
+Yapılan projenin amacı kişisel banka hesaplarına kullanıcı adı ve şifresiyle erişip istediğiniz hesabın bilgilerini görebilmektir.
+Otomasyonun interaktif yapabildikleri ise hesaba para ekleme,para çekme, kullanmış olduğunuz kredi kartı kalan tutarının askarisini veya
+güncel borcun tamamını ödemenizi sağlayan, hesaba bağlı farklı hesaplara erişim ve o hesapların üzerinde de aynı işlemleri yapabileceğiniz 
+ve yaptığınız her işlemin tutarını ve işlemin adını hesap hareketlerindeki bilgilendirme tablosundan görebileceğiniz uygulayıcı programdır.
+
+Proje başlangıcında hedeflediklerimizin çoğunu gerçekleştirdik lakin hesaplar arası para transferi bölümü ve kullanıcının farklı hesapları 
+arasında geçişte veri tabanı eksikliğinden dolayı hesap bilgileri başlangıç değerlerini korumakta, hesap değişikliğinden sonra tekrar 
+erişimde hesap bilgileri sistem tarafından otomatik atanmaktadır.
+
+Projemizde main paketinin içerisinde bulunan ATM.java class ı projeyi çalıştıran class tır, projenin tasarımına dair bütün kodlar gui
+paketi içerisinde bulunan gui.java class ında bulunmaktadır, logic pakerinde ise projede kullanılan resimler ve aksiyon.java class ı
+bulunmaktadır, aksiyon.java class ında ise projede kullanılan button ların kullanılması halinde ne olacağını belirleyen kodlar bulunmaktadır.
