@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Client/src"/>
+	<classpathentry kind="src" path="Server/src"/>
+	<classpathentry kind="lib" path="Client/dist/Client.jar"/>
+	<classpathentry kind="lib" path="Client/dist/lib/beansbinding-1.2.1.jar"/>
+	<classpathentry kind="lib" path="Jar/Client.jar"/>
+	<classpathentry kind="lib" path="Jar/Server.jar"/>
+	<classpathentry kind="lib" path="Server/dist/Server.jar"/>
+	<classpathentry kind="output" path="Client/build/classes"/>
+</classpath>

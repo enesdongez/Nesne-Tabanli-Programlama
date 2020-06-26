@@ -1,0 +1,10 @@
+Server: 0 Baðlandý.
+Server: 1 Baðlandý.
+1 kiþisi adýný Ali ile deðiþtirdi.
+0 kiþisi adýný Enes ile deðiþtirdi.
+Enes:&#9,&MERHABA
+Ali:&#9,&MERHABA ENES
+Enes:&#2,&45 52 11 35 ! 45 25 21 43 15 33 25 ! 34 15 44 11 31 ! 22 41 35 14 15 43 25 54 41 43 52 34 ! ,
+Ali:&#3,&IBÐHÇ!HVÝÝZBN!GIBÜD!EAÇPIÝELÞÖNR,
+Ali:&#9,&GÖRÜÞÜRÜZ
+Ali Ayrýldý.Enes:&#9,&BYY
