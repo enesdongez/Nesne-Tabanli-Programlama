@@ -1,1 +1,1 @@
-# Nesne-Yönelimli-Programlama
+# Nesne-Yonelimli-Programlama
